@@ -1,0 +1,13 @@
+name = "MCA Reborn [Fabric/Forge]"
+filename = "minecraft-comes-alive-7.0.11-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b5f0486a14a342127866c7684e6ceb74fee29ab9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3755648
+project-id = 535291
