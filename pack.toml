@@ -1,0 +1,12 @@
+name = "Oasis 1.16.5"
+version = "1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5de8a6762995398ef8b17c8e03ee278f7c06ca2fcb9eaa7459e4095bdee4b9c5"
+
+[versions]
+forge = "36.2.34"
+minecraft = "1.16.5"
