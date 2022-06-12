@@ -5,6 +5,10 @@ file = "config/actuallycompatible-common.toml"
 hash = "eb3fd82fc7a56599190a5caeff97ce9efaeeb191b23e0390002964dd9fb8c8aa"
 
 [[files]]
+file = "config/fpsreducer/fpsreducer-client.toml"
+hash = "9f441f4c087fc7b5c71495294c80af13eb3f9241903959ac677bda01347d103a"
+
+[[files]]
 file = "config/randompatches.toml"
 hash = "92acf28445b2294fb98ff65313760f2a663cccd1210e8522449266104aa4ffea"
 
