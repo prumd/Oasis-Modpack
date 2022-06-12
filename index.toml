@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "7932e5b1bfa120d923ef85ca0d5dc585b0b956fd533883ae658bbcab309b822e"
+hash = "9d18aaf9b63449ebb85ca241df3b1f1ba75377d6a4e4c4ce27182802b5c5dc44"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "c4a39dd8be2f24da89d0006fd76590d0f65c454b91f9751849747f627018bf9c"
+hash = "56bbb5d986f174b875b0140d361c01c4874cae7068480a1154b1355ed24f3950"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "8fd3c2c2d4998fde7b062c0302c54e5b8b3322f0b0a41fd4dd29c819c95a24ef"
+hash = "702c6a6d9ac11aef1614a0460ae50b394b5908538eaa33d8e8d2b94bc88f9f5f"
 metafile = true
 
 [[files]]
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "2db7b8faeb52b79c979ecf5500785e392c6b234ccfab2474b119b5957903ff23"
+hash = "80698712d1f2a388268638c2fe48011fbf5208bbb1e5a6ea2249f63beff2e340"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/u-team-core.pw.toml"
-hash = "2c3848cc3b5b0bedc5eb452c669ef4715d2c1ae9198ab6ec688f17517e75640b"
+hash = "f809c6a60759df59b8cc283f7feabe19f3282ed2d902755c2b1316a96b2620aa"
 metafile = true
 
 [[files]]
