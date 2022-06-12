@@ -141,6 +141,11 @@ hash = "ee6b63b9f81d87c75ac5115232548df5347fe9456f7ee8a80cd137043616191a"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "150831edb0c1f6546ad6441c3fcf141042095e17d032b3c867c18697f7e753e3"
+metafile = true
+
+[[files]]
 file = "mods/ctm.pw.toml"
 hash = "5f6f63a89f7ce3204188df5c2d07036ae59514fc72ebd832a447fbb73f6ebfcb"
 metafile = true
