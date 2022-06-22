@@ -6,7 +6,7 @@ hash = "eb3fd82fc7a56599190a5caeff97ce9efaeeb191b23e0390002964dd9fb8c8aa"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "51cec5a93e2fffb9cff02e9c16bbfa0d698a368f73002fb270ab6475d0d3d071"
+hash = "b108e229b98b3ca21a77a1b88b36a5b0f69dbdd0e8a15480f6c27ae98b78ed09"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "a9d3331246dea7821b397c21bc5956e50a90ef491d084ea1b52062621e90cd46"
+hash = "72d1fbfaa9efdbed46cd5e8b37cb41b1afccb5878222853e8c961fa468bd9b45"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeon-crawl.pw.toml"
-hash = "efc0cd8a5d0e13d4893244c11f56cb46698d69962a0faa97720a692dccee7a00"
+hash = "f873f8571ff0849123972a2c391153e421b711465891294aa81894190bd86c11"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "61a1e32346003c4161371491f71914411a93394ea569bdebf0b887723d150559"
+hash = "fbcae0ce3bb0041efc3f06807cc763dd3e86e5fa6dceba048f1fa984293b44be"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/endertanks.pw.toml"
-hash = "c30761163a0ac1700c6434c64afd1fd032f864788809712852fbf70098e82c50"
+hash = "9e0546b3b7de21a9bc93c12a5c574f5ff5654081fa707c6c7f8eeb7a8662e7a8"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "9d18aaf9b63449ebb85ca241df3b1f1ba75377d6a4e4c4ce27182802b5c5dc44"
+hash = "04b928d8be54ab152fc2ddbe278bf7ce08353de099145f7ffb1a1b4ff33d11a7"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "56bbb5d986f174b875b0140d361c01c4874cae7068480a1154b1355ed24f3950"
+hash = "ca53ecad2766243a37cdd9a93a31b91537dc97659e182d08a73b75500fdba1fb"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "d5ee6e8ebcf899533be64e34b24903afdaa1ba2f1d5fb7192c43e089ea6dba35"
+hash = "c0eba592da43516a0ca6d9004603c020b9e80ed18e751366629e5ee01479ff35"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
-hash = "b96a0c7aa4f9bc805c8096d823fab2db7cf85068c2a05a5e9b22622e692a35b4"
+hash = "fda16dbe6a1ea2de5e24b06b537c44a3499254482b99017e70fde75c0ed9b53c"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "80698712d1f2a388268638c2fe48011fbf5208bbb1e5a6ea2249f63beff2e340"
+hash = "3b92d19def5e090c543b05ba594a90ab797f3a1ad3013871eebf4b24d753b31d"
 metafile = true
 
 [[files]]

@@ -1,3 +1,7 @@
 key_iris.keybind.reload:key.keyboard.r:CONTROL
-key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.toggleShaders:key.keyboard.k:CONTROL
 key_iris.keybind.shaderPackSelection:key.keyboard.o:CONTROL
+key_key.craftpresence.config_keycode.name:key.keyboard.unknown
+key_keybind.ironjetpacks.engine:key.keyboard.g
+key_keybind.ironjetpacks.hover:key.keyboard.g:SHIFT
+key_key.mekanism.chest_mode:key.keyboard.unknown
