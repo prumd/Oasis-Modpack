@@ -66,6 +66,11 @@ hash = "8f28716ece15f4eef1318e9134ed2356c7adf986a65a6c702a0c994a669444bd"
 metafile = true
 
 [[files]]
+file = "mods/biggerreactors.pw.toml"
+hash = "a141da5784fc34982b38a07a768fc9fb2e368a576b6dfe4df9dfe9496d541fef"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "bcd164fe57415a47285a55247368cfa08c6f9d49368539a4ce1e3897001d5d17"
 metafile = true
@@ -508,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "e94940367c4862d0c9285471514413faf2e2be9e1c585085d5de045f8e9fd87a"
+metafile = true
+
+[[files]]
+file = "mods/phosphophyllite.pw.toml"
+hash = "aa785bb7471e70497ab115f1fbf1cc69297ff10bb1fc59b21dee5a5cca63ae3a"
 metafile = true
 
 [[files]]
