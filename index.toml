@@ -386,6 +386,11 @@ hash = "7edc90a4c9d38b882798d87a444e87893597bcab46a9e5226c8f83d9515c895c"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "ed357f0935b1d04039203bcbe503554b0aeb76ddf5735667a933470767693d3d"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "3ebaafb0fbce322bb12afa25879a6d475c02bed584ac1498483d17a1254f608b"
 metafile = true
@@ -536,6 +541,41 @@ hash = "a0e618f7fa6b546fa5007a681d49d475d50a421eff368bbe78c20e7f183be124"
 metafile = true
 
 [[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "ba6d6368d3c07954bb4a47ef83c21e246598c7f94812e5bdbf71f14d32b9c043"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "a43ae0339aae015f86b2eb63eabafcf9eab37932501c9008475606957d7188e0"
+metafile = true
+
+[[files]]
+file = "mods/rftools-control.pw.toml"
+hash = "85e4b174baa7a5e18694bede0bf8387266c26c19b5a80ea9bc39a8725c8e0f98"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.pw.toml"
+hash = "88313937618315576731870e435fc70d441b5485ad5f362717fe74269b9c47cd"
+metafile = true
+
+[[files]]
+file = "mods/rftools-power.pw.toml"
+hash = "58f5c642b3bc3055c7f5e8f6c2a787089df063cc6d83ce2e24375610b2f37e07"
+metafile = true
+
+[[files]]
+file = "mods/rftools-storage.pw.toml"
+hash = "2e376b18459395cb0d88694b176a722d5304ce188c31f89714e703c352ae9350"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "6422252c1f9b5010fa16d37994a8de436d643549052761c7fbe9a61e22b5e126"
+metafile = true
+
+[[files]]
 file = "mods/roadrunner.pw.toml"
 hash = "426f57df1157b97d7c53aab1d0ed858cde871fd51cabf9dcd6b981b930cf36e3"
 metafile = true
@@ -673,6 +713,16 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "e7a1721fc238e8085c4421863f46b43d3e47ddc1fb5d3f8db13bd4fb073de02d"
+metafile = true
+
+[[files]]
+file = "mods/xnet-gases.pw.toml"
+hash = "3b85d431ec63f83198262bf386275661d30945964f1ed59441afe9da94af263f"
+metafile = true
+
+[[files]]
+file = "mods/xnet.pw.toml"
+hash = "6ceb528434d767892cba0a3fcc0c4228eaf212b0f80ef633d6ae9308005f5a5a"
 metafile = true
 
 [[files]]
