@@ -56,6 +56,11 @@ hash = "94c7ba94c569158a3d55f67820f98c9947ca87f89d8a1aa8ebac3b37abec5783"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "9b2088287d126347cb44a539b7104462e0a4aaa0b871577ca13902398f174f52"
+metafile = true
+
+[[files]]
 file = "mods/balanced-enchanting.pw.toml"
 hash = "eba05a0bf942e403c7d989302d0a6edb2bb3e13417d8317e15c9173ea918e370"
 metafile = true
@@ -111,6 +116,11 @@ hash = "6fc24b1360d3fa602b18ab310320eacafb8bcbf2f623e1a94273f0bb7166ab56"
 metafile = true
 
 [[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "f786da387c38f985d46d00c765ced150a88e5a65177bf3d7e4091bd43e87720e"
+metafile = true
+
+[[files]]
 file = "mods/compressium.pw.toml"
 hash = "b9ac6f9a4b4c77501798ddcbeb168c8c71f8b0d922095ff168f0572ae8e93263"
 metafile = true
@@ -158,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/cucumber.pw.toml"
 hash = "3f224b17c8bb8d913ae1acd3ae272d8a8b73d565523b5da5af7d85b4780fea10"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "53bb90dd6a039ae924a4e796c3b5b1dc69f1941b9dc47fb05c88c3c75ed544ca"
 metafile = true
 
 [[files]]
@@ -303,6 +318,31 @@ metafile = true
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "efffce730832a843b4848bbf5da14a3f49cd5fe9cbc17ae073a367e886de7b4f"
+metafile = true
+
+[[files]]
+file = "mods/integrated-crafting.pw.toml"
+hash = "2a6a43a220e80fca7c751fb8dd12086a463140c49d6eb6058bcd467cd8fd0485"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "c4d1fd9068795f095279bd07aab45328ffca5abc272394a4c423ece7fff64104"
+metafile = true
+
+[[files]]
+file = "mods/integrated-nbt.pw.toml"
+hash = "44173e316be9e3a142f0d0e3d7bbfdd96f5bac6d951c032d89e702d124d877bb"
+metafile = true
+
+[[files]]
+file = "mods/integrated-terminals.pw.toml"
+hash = "5919f349e5645f286e1dd462f2d261520c663e219aa840974094aafef83a58e7"
+metafile = true
+
+[[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "ee0849860cc16ac85744087162e08a10a99f35749aa0fadc46d9c3e0f9f0d231"
 metafile = true
 
 [[files]]
@@ -533,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "6e3a0420abf4757ca240f5f1f4a2033a7c78db9cef80bba7d30a8441e4d3d2dc"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "6d7e21afb6345e8f99bae1903c69141134fd10a773d5f431145a1f83cd1887ae"
 metafile = true
 
 [[files]]
