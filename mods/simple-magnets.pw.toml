@@ -1,13 +1,13 @@
 name = "Simple Magnets"
-filename = "simplemagnets-1.1.7-forge-mc1.16.jar"
+filename = "simplemagnets-1.1.8-forge-mc1.16.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b742cf7992679978a51f7feb2f25597877fb1630"
+hash = "655186f726de5f50398146bfaaf26c2f9b6b2340"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3773839
+file-id = 3862606
 project-id = 394140
